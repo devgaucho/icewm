@@ -11,7 +11,7 @@ pra quem quer saber qual é o meu desktop eu uso o linux mint versão xfce (ubun
 para instalar o icewm
 
 ```bash
-sudo apt install -y alarm-clock-applet gedit gsimplecal icewm lxpolkit nitrogen suckless-tools volumeicon-alsa
+sudo apt install -y alarm-clock-applet gsimplecal icewm lxpolkit nitrogen suckless-tools volumeicon-alsa
 rm -rf ~/.icewm
 ```
 
