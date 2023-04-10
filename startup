@@ -17,5 +17,3 @@ sleep 1
 nitrogen --restore
 sleep 1
 rhythmbox
-sleep 1
-caffeine-indicator
