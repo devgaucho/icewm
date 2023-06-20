@@ -1,4 +1,5 @@
-prog "Firefox" /usr/share/app-install/icons/firefox.png firefox
+#prog "Firefox" /usr/share/app-install/icons/firefox.png firefox
+prog "Chrome" /opt/google/chrome/product_logo_16.png google-chrome
 prog "Gnumeric" /usr/share/app-install/icons/gnumeric.png gnumeric 
 prog "Rhythmbox" /usr/share/app-install/icons/rhythmbox.png rhythmbox
 prog "PCManFM" /usr/share/icons/gnome/16x16/apps/system-file-manager.png pcmanfm

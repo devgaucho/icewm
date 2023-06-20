@@ -7,10 +7,10 @@ volumeicon &
 sleep 1
 gnumeric ~/Documentos/agenda.gnumeric &
 sleep 1
-#o lxpolkit é necessário para o mintUpdate funcionar
+-#o lxpolkit é necessário para o mintUpdate funcionar
 lxpolkit &
 sleep 1
-/usr/lib/linuxmint/mintUpdate/mintUpdate.py &
+python3 /usr/lib/linuxmint/mintUpdate/mintUpdate.py &
 sleep 1
 blueman-applet &
 sleep 1

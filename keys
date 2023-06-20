@@ -4,6 +4,4 @@ key "Shift+Alt+Enter" xfce4-terminal
 key "F1" xfce4-terminal
 key "Alt+p" dmenu_run
 key "Print" xfce4-screenshooter
-key "Ctrl+Alt+c" xkill
-key "Shift+Alt+c" xkill
-key "Ctrl+Shift+c" xkill
+#key "Ctrl+Shift+Delete" xkill
